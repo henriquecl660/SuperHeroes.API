@@ -1,0 +1,11 @@
+C:\Users\Henrique\Desktop\ProvaSeidor\SuperHeroes.API\BussinessDomains\bin\Debug\net9.0\BussinessDomains.deps.json
+C:\Users\Henrique\Desktop\ProvaSeidor\SuperHeroes.API\BussinessDomains\bin\Debug\net9.0\BussinessDomains.dll
+C:\Users\Henrique\Desktop\ProvaSeidor\SuperHeroes.API\BussinessDomains\bin\Debug\net9.0\BussinessDomains.pdb
+C:\Users\Henrique\Desktop\ProvaSeidor\SuperHeroes.API\BussinessDomains\obj\Debug\net9.0\BussinessDomains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\Desktop\ProvaSeidor\SuperHeroes.API\BussinessDomains\obj\Debug\net9.0\BussinessDomains.AssemblyInfoInputs.cache
+C:\Users\Henrique\Desktop\ProvaSeidor\SuperHeroes.API\BussinessDomains\obj\Debug\net9.0\BussinessDomains.AssemblyInfo.cs
+C:\Users\Henrique\Desktop\ProvaSeidor\SuperHeroes.API\BussinessDomains\obj\Debug\net9.0\BussinessDomains.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Desktop\ProvaSeidor\SuperHeroes.API\BussinessDomains\obj\Debug\net9.0\BussinessDomains.dll
+C:\Users\Henrique\Desktop\ProvaSeidor\SuperHeroes.API\BussinessDomains\obj\Debug\net9.0\refint\BussinessDomains.dll
+C:\Users\Henrique\Desktop\ProvaSeidor\SuperHeroes.API\BussinessDomains\obj\Debug\net9.0\BussinessDomains.pdb
+C:\Users\Henrique\Desktop\ProvaSeidor\SuperHeroes.API\BussinessDomains\obj\Debug\net9.0\ref\BussinessDomains.dll

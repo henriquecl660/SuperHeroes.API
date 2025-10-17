@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "BussinessDomains/1.0.0": {
+        "runtime": {
+          "BussinessDomains.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BussinessDomains/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

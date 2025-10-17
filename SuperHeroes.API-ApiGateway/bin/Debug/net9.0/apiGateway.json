@@ -1,0 +1,28 @@
+{
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:7133"
+  },
+  "Routes": [
+    {
+      // Heroes Microservice Route
+      "DownstreamPathTemplate": "/api/heroes",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7089
+        }
+      ],
+      "UpstreamPathTemplate": "/gateway/hero",
+      "RateLimitOptions": {
+        "ClientWhiteList": [],
+        "EnableRateLimiting": true,
+        "Period": "5s",
+        "PeriodTimespan": 1,
+        "Limit": 1
+      },
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET", "DELETE" ]
+    }
+  ]
+
+}

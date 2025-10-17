@@ -1,6 +1,6 @@
      # Readme da API - SuperHeroes.API
 
-     Essa api foi realizada visando a escalabilidade de dados com possibilidade de inclusão de mais microsservicos.
+     Essa api foi construida visando a escalabilidade de dados com possibilidade de inclusão de mais microsservicos.
 
      ## 📚 A API conta com:
 
